@@ -1,5 +1,4 @@
 <h1 align="center">Hello world!!👋, I'm Sandeep Kumar</h1>
-
 <br>
 <h3 align="center">A Young enthusiastic Web Developer | passionate learner | from India </h3>
 
@@ -23,6 +22,8 @@ I'm a post graduate student and a to-be developer 🧑‍🎓 from India who is 
 - 👨‍💻 You can also check out my portfolio [https://sandeepk27.github.io/](https://sandeepk27.github.io/)
 
 <br>
+
+### Connect with me:
 
 <a href="https://www.linkedin.com/in/sandeep-kaparthi/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
 <a href="https://github.com/sandeepk27" class="github"><i class="bx bxl-github"></i></a>
