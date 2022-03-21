@@ -1,21 +1,42 @@
-### ✨ Hello, World! I'm <a href="https://sandeepk27.github.io">Sandeep Kumar</a>.
+<h1 align="center">Hello world!!👋, I'm Sandeep Kumar</h1>
 
-I'm a Front End Web Developer with a background in Education.
-I enjoy creating things that live on the internet and turning problems into beautiful designs.
-I primarily focus on HTML, CSS, and JavaScript. I love development and design.
+<br>
+<h3 align="center">A Young enthusiastic Web Developer | passionate learner | from India </h3>
 
-Transitioning to web development has enabled me to continue my lifelong passion for learning and embrace my status as a forever student. I love to work as part of a dynamic team and find the challenges that programming brings very exciting!
+I'm a post graduate student and a to-be developer 🧑‍🎓 from India who is passionate about Web Development, Python Development and open-source. Book lover and internet surfer 🏄‍♂️. 
+
+- 😄 Pronouns: He/Him
+
+- 🌱 I’m currently learning [Cloud Computing]
+
+- 🥅 2022 Goals: Work on Blockchain and Contribute more to Open Source.
+
+- ⚡ Languages: Python3, C++, JavaScript
+
+- 📫 How to reach me: Links are given above 🔝
+
+- 💬 Ask me about **Web Development, DBMS, Python**
 
 
-- 🖥️ I’m currently working on: 100 Days of Code
-- 🌱 I’m currently studying: JavaScript
-- 🔍 I’m looking to: transition into a Front End Development role
-- 📬 How to reach me: https://www.instagram.com/sid_buoy
-- 👨‍💻 You can also check out my portfolio at [https://sandeepk27.github.io/](https://sandeepk27.github.io/)
+- ⚡ **To live creative life, we must lose our fear of being wrong**
+
+- 👨‍💻 You can also check out my portfolio [https://sandeepk27.github.io/](https://sandeepk27.github.io/)
 
 <br>
 
-### Technical Skills:
+<a href="https://www.linkedin.com/in/sandeep-kaparthi/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+<a href="https://github.com/sandeepk27" class="github"><i class="bx bxl-github"></i></a>
+<a href="https://www.facebook.com/kaparthi.kaparthi" class="facebook"><i class="bx bxl-facebook"></i></a>
+<a href="https://twitter.com/SandeepKaparthi" class="twitter"><i class="bx bxl-twitter"></i></a>
+<a href="https://instagram.com/sid_buoy" class="Instagram"><i class="bx bxl-instagram"></i></a>
+<a href="https://wa.me/7330357797" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
+<a href="mailto:sandeepkaparthi5869@gmail.com" class="google-plus"><i class="bx bxl-google"></i></a>
+
+
+
+
+### Technical skills:
+  
 <img align="left" alt="HTML5" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
 <img align="left" alt="CSS3" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
 <img align="left" alt="Bootstrap" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
