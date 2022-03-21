@@ -2,7 +2,7 @@
 <br>
 <h3 align="center">A Young enthusiastic Web Developer | passionate learner | from India </h3>
 
-I'm a post graduate student and a to-be developer 🧑‍🎓 from India who is passionate about Web Development, Python Development and open-source. Book lover and internet surfer 🏄‍♂️. 
+I'm a post graduate student and a to-be developer 🧑‍🎓 from India who is passionate about Web Development, Python Development and open-source. Book lover 📔 || Music Lover 🎶 || 💻 Internet surfer 🏄‍♂️. 
 
 - 😄 Pronouns: He/Him
 
@@ -16,7 +16,6 @@ I'm a post graduate student and a to-be developer 🧑‍🎓 from India who is 
 
 - 💬 Ask me about **Web Development, DBMS, Python**
 
-
 - ⚡ **To live creative life, we must lose our fear of being wrong**
 
 - 👨‍💻 You can also check out my portfolio [https://sandeepk27.github.io/](https://sandeepk27.github.io/)
@@ -25,15 +24,15 @@ I'm a post graduate student and a to-be developer 🧑‍🎓 from India who is 
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/sandeep-kaparthi/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-<a href="https://github.com/sandeepk27" class="github"><i class="bx bxl-github"></i></a>
-<a href="https://www.facebook.com/kaparthi.kaparthi" class="facebook"><i class="bx bxl-facebook"></i></a>
-<a href="https://twitter.com/SandeepKaparthi" class="twitter"><i class="bx bxl-twitter"></i></a>
-<a href="https://instagram.com/sid_buoy" class="Instagram"><i class="bx bxl-instagram"></i></a>
-<a href="https://wa.me/7330357797" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
-<a href="mailto:sandeepkaparthi5869@gmail.com" class="google-plus"><i class="bx bxl-google"></i></a>
-
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/sandeepk27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="" height="30" width="40" /></a>
+<a href="https://twitter.com/SandeepKaparthi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sandeep-kaparthi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/iam_sandeep12/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.facebook.com/kaparthi.kaparthi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
+<a href="https://t.me/sandeepk27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
+</p>
 
 
 ### Technical skills:
@@ -44,7 +43,9 @@ I'm a post graduate student and a to-be developer 🧑‍🎓 from India who is 
 <img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 <img align="left" alt="Git" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 <img align="left" alt="GitHub" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-<img align="left" alt="GitHub" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
+<img align="left" alt="my-sql" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+<img align="left" alt="python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+<img align="left" alt="vscode" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
 
 
 
