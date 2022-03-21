@@ -21,13 +21,15 @@ I'm a post graduate student and a to-be developer 🧑‍🎓 from India who is 
 
 - 💬 Ask me about **Web Development, DBMS, Python**
 
-- ⚡ **To live creative life, we must lose our fear of being wrong**
+- ⚡ **To live creative life, we must lose our fear of being wrong.**
 
 - 👨‍💻 You can also check out my portfolio [https://sandeepk27.github.io/](https://sandeepk27.github.io/)
 
 <br>
 
 ### Connect with me:
+
+
 <p align="left">
 <a href="https://dev.to/sandeepk27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="" height="30" width="40" /></a>
 <a href="https://twitter.com/SandeepKaparthi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
@@ -37,8 +39,7 @@ I'm a post graduate student and a to-be developer 🧑‍🎓 from India who is 
 <a href="https://t.me/sandeepk27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
 </p>
 
-<br><br><br>
-
+<br>
 
 ### Technical skills:
   
