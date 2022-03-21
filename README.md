@@ -38,7 +38,6 @@ I'm a post graduate student and a to-be developer 🧑‍🎓 from India who is 
 <a href="https://www.facebook.com/kaparthi.kaparthi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
 <a href="https://t.me/sandeepk27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
 </p>
-
 <br>
 
 ### Technical skills:
