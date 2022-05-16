@@ -13,7 +13,7 @@ I'm a post graduate student and a to-be developer 🧑‍🎓 from India who is 
 
 - 🌱 I’m currently learning [Cloud Computing]
 
-- 🥅 2022 Goals: Work on Blockchain and Contribute more to Open Source.
+- 🥅 2022 Goals: Work on Blockchain , Django and Contribute more to Open Source.
 
 - ⚡ Languages: Python3, C++, JavaScript
 
