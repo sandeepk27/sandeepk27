@@ -17,7 +17,7 @@ I'm a post graduate student and a to-be developer 🧑‍🎓 from India who is 
 
 - ⚡ Languages: Python3, C++, JavaScript
 
-- 📫 How to reach me: Links are given above 🔝
+- 📫 How to reach me: Links are given below.
 
 - 💬 Ask me about **Web Development, DBMS, Python**
 
