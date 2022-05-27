@@ -23,7 +23,7 @@ I'm a post graduate student and a to-be developer 🧑‍🎓 from India who is 
 
 - ⚡ **To live creative life, we must lose our fear of being wrong.**
 
-- 👨‍💻 You can also check out my portfolio [https://sandeepk27.github.io/](https://sandeepk27.github.io/)
+- 👨‍💻 You can also check out my [https://sandeepk27.github.io/Portfolio/](Portfolio)
 
 <br>
 
