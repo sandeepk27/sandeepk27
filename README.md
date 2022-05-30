@@ -5,11 +5,7 @@
 #### A passionate frontend developer from India
 
 
-<h3 align="center">A Young Web Developer | passionate learner | from India
-</h3>                   
-
-
-
+                   
 - 😄 Pronouns: He/Him
 
 - 🔭 I'm a post graduate student and a to-be developer 🧑‍🎓 from India who is passionate about Web Development, Python and open-source. Book lover 📔 || Music Lover 🎶 || 💻 Internet surfer 🏄‍♂️. 
@@ -61,4 +57,3 @@
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepk27&layout=compact)
-
