@@ -22,7 +22,7 @@
 
 - ⚡ **To live creative life, we must lose our fear of being wrong.**
 
-- 👨‍💻 You can also check out my Poetfolio [https://sandeepk27.github.io/Portfolio/]
+- 👨‍💻 You can also check out my Portfolio [https://sandeepk27.github.io/Portfolio/]
 
 
 <br>
@@ -44,12 +44,8 @@
 ### Connect with me:
 
 
-<p align="left">
-<a href="https://dev.to/sandeepk27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sandeepk27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.facebook.com/sandeepk27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
 
-</p>
 <br><br><br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeepk27)
@@ -57,3 +53,9 @@
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepk27&layout=compact)
+
+
+<br>
+
+
+[linkedin]: https://www.linkedin.com/in/sandeepk27/
