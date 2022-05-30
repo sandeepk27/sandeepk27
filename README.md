@@ -1,15 +1,18 @@
 
 
 
-<h1 align="center">Hello World!! 👋, I'm Sandeep Kumar</h1>
+### Hi 👋, I'm Sandeep Kumar
+#### A passionate frontend developer from India
 
 
 <h3 align="center">A Young Web Developer | passionate learner | from India
 </h3>                   
 
-I'm a post graduate student and a to-be developer 🧑‍🎓 from India who is passionate about Web Development, Python and open-source. Book lover 📔 || Music Lover 🎶 || 💻 Internet surfer 🏄‍♂️. 
+
 
 - 😄 Pronouns: He/Him
+
+- 🔭 I'm a post graduate student and a to-be developer 🧑‍🎓 from India who is passionate about Web Development, Python and open-source. Book lover 📔 || Music Lover 🎶 || 💻 Internet surfer 🏄‍♂️. 
 
 - 🌱 I’m currently learning [Cloud Computing]
 
@@ -25,6 +28,21 @@ I'm a post graduate student and a to-be developer 🧑‍🎓 from India who is 
 
 - 👨‍💻 You can also check out my Poetfolio [https://sandeepk27.github.io/Portfolio/]
 
+
+<br>
+
+#### Languages and Tools
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  
 <br>
 
 ### Connect with me:
@@ -32,28 +50,10 @@ I'm a post graduate student and a to-be developer 🧑‍🎓 from India who is 
 
 <p align="left">
 <a href="https://dev.to/sandeepk27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="" height="30" width="40" /></a>
-<a href="https://twitter.com/SandeepKaparthi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sandeepk27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/iam_sandeep12/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.facebook.com/sandeepk27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
-<a href="https://t.me/sandeepk27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
+
 </p>
-<br>
-
-### Technical skills:
-  
-<img align="left" alt="HTML5" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-<img align="left" alt="CSS3" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-<img align="left" alt="Bootstrap" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
-<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-<img align="left" alt="Git" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-<img align="left" alt="GitHub" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-<img align="left" alt="my-sql" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-<img align="left" alt="python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-<img align="left" alt="vscode" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-
-
-
 <br><br><br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeepk27)
@@ -61,3 +61,4 @@ I'm a post graduate student and a to-be developer 🧑‍🎓 from India who is 
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepk27&layout=compact)
+
