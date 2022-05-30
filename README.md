@@ -56,4 +56,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepk27&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepk27" /> </p>
 
-<p align=""> <a href="https://twitter.com/iam_sandeepk27" target="blank"><img src="https://img.shields.io/twitter/follow/sandeepk27?logo=twitter&style=for-the-badge" alt="sandeepk27" /></a> </p>
+<p align=""> <a href="https://twitter.com/iam_sandeepk27" target="blank"><img src="https://img.shields.io/twitter/follow/iam_sandeepk27?logo=twitter&style=for-the-badge" alt="sandeepk27" /></a> </p>
