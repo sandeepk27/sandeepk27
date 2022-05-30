@@ -47,7 +47,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepk27&show_icons=true&locale=en&layout=compact" alt="sandeepk27" />
 
 <img align="center"  src="https://github-readme-stats.vercel.app/api?username=sandeepk27&show_icons=true&locale=en" alt="sandeepk27" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachanarpit&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="sachanarpit" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepk27&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="sachanarpit" />
 <br>
 
 
@@ -56,4 +56,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepk27&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepk27" /> </p>
 
-<p align=""> <a href="https://twitter.com/sandeepk27" target="blank"><img src="https://img.shields.io/twitter/follow/sandeepk27?logo=twitter&style=for-the-badge" alt="sandeepk27" /></a> </p>
+<p align=""> <a href="https://twitter.com/iam_sandeepk27" target="blank"><img src="https://img.shields.io/twitter/follow/sandeepk27?logo=twitter&style=for-the-badge" alt="sandeepk27" /></a> </p>
