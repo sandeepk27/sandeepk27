@@ -46,7 +46,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
 
-<br><br><br>
+<br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeepk27)
 
