@@ -48,12 +48,9 @@
 
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeepk27)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepk27&show_icons=true&locale=en&layout=compact" alt="sandeepk27" />
 
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepk27&layout=compact)
-
+<img align="center"  src="https://github-readme-stats.vercel.app/api?username=sandeepk27&show_icons=true&locale=en" alt="sandeepk27" />
 
 <br>
 
