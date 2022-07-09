@@ -28,7 +28,7 @@
 - 👨‍💻 You can also check out my Portfolio [https://sandeepk27.github.io/Portfolio/]
 
 
-<hr>
+<br>
 
 #### Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -59,12 +59,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepk27&show_icons=true&locale=en&title_color=green&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="sandeepk27" />
 <!--Github Streak-->
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepk27&theme=dark" alt="sandeepk27" /></p>
-<hr>
-<!--Profile Counts-->
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepk27&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepk27" /> </p>
 
-<p align=""> <a href="https://twitter.com/iam_sandeepk27" target="blank"><img src="https://img.shields.io/twitter/follow/iam_sandeepk27?logo=twitter&style=for-the-badge" alt="sandeepk27" /></a> </p>
+
+
 
 <p align="center">
   <img src="https://github.com/sandeepk27/sandeepk27/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
