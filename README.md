@@ -1,8 +1,11 @@
 
 
 
-### Hi 👋, I'm Sandeep Kumar
-#### A passionate frontend developer from India
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Sandeep</h1>
+
 
 
                    
@@ -67,3 +70,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepk27&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepk27" /> </p>
 
 <p align=""> <a href="https://twitter.com/iam_sandeepk27" target="blank"><img src="https://img.shields.io/twitter/follow/iam_sandeepk27?logo=twitter&style=for-the-badge" alt="sandeepk27" /></a> </p>
+
+<p align="center">
+  <img src="https://github.com/sandeepk27/sandeepk27/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
