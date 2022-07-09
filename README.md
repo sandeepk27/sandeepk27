@@ -19,7 +19,7 @@
 
 - ⚡ Languages: Python3, C++, JavaScript
 
-- 📫 How to reach me: Links are given below.
+- 📫 Contact me: **nanisandeep876@gmail.com**
 
 - 💬 Ask me about **Web Development, DBMS, Python**
 
@@ -47,18 +47,23 @@
 <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/iam_sandeepk27" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="ishikakesarwan4" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sandeepk27/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="ishika kesarwani" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/iam_sandeep12" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" /></a>
+<a href="https://twitter.com/iam_sandeepk27" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="iam_sandeepk27" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sandeepk27/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="sandeepk27" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/iam_sandeep12" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="iam_sandeep12" height="50" width="50" /></a>
 </p>
 <hr>
 <br>
+<!--Most Languages Used -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepk27&show_icons=true&locale=en&layout=compact" alt="sandeepk27" />
-
+<!--Github Stats-->
 <img align="center"  src="https://github-readme-stats.vercel.app/api?username=sandeepk27&show_icons=true&locale=en" alt="sandeepk27" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepk27&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="sachanarpit" />
+<!--Github Streak-->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepk27&show_icons=true&locale=en&title_color=green&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="sandeepk27" />
 <br>
+
+<!--Profile Counts-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepk27&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepk27" /> </p>
+
 <p align=""> <a href="https://twitter.com/iam_sandeepk27" target="blank"><img src="https://img.shields.io/twitter/follow/iam_sandeepk27?logo=twitter&style=for-the-badge" alt="sandeepk27" /></a> </p>
 
 <p align="center">
