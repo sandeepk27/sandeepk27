@@ -54,11 +54,11 @@
 <hr>
 <br>
 <!--Most Languages Used -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepk27&show_icons=true&locale=en&layout=compact" alt="sandeepk27" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepk27&show_icons=true&locale=en&layout=compact&theme=dark" alt="sandeepk27" />
 <!--Github Stats-->
-<img align="center"  src="https://github-readme-stats.vercel.app/api?username=sandeepk27&show_icons=true&locale=en" alt="sandeepk27" />
-<!--Github Streak-->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepk27&show_icons=true&locale=en&title_color=green&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="sandeepk27" />
+<!--Github Streak-->
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepk27&theme=dark" alt="sandeepk27" /></p>
 <br>
 
 <!--Profile Counts-->
