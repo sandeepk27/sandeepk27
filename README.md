@@ -21,7 +21,7 @@
 
 - ⚡ **To live creative life, we must lose our fear of being wrong.**
 
-- 👨‍💻 You can also check out my Portfolio [https://sandeepk27.github.io/Portfolio/]
+- 👨‍💻 You can also check out my Portfolio **https://sandeepk27.github.io/Portfolio/**
 <br>
 <!--Profile Counts-->
 <img src="https://komarev.com/ghpvc/?username=sandeepk27&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepk27" /> </p>
