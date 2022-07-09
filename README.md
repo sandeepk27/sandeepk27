@@ -12,13 +12,11 @@
                    
 - 😄 Pronouns: He/Him
 
-- 🔭 I'm a post graduate student and a to-be developer 🧑‍🎓 from India who is passionate about Web Development, Python and open-source. Book lover 📔 || Music Lover 🎶 || 💻 Internet surfer 🏄‍♂️. 
+- 🔭 I'm a post graduate student and a to-be developer 🧑‍🎓 from India who is passionate about Web Development, Python and open-source. 
 
-- 🌱 I’m currently learning [Cloud Computing]
+- 🥅 Book lover 📔 || Music 🎶 || 💻 Internet surfer 🏄‍♂️. 
 
-- 🥅 2022 Goals: Work on Blockchain , Django and Contribute more to Open Source.
-
-- ⚡ Languages: Python3, C++, JavaScript
+- ⚡ I’m currently learning [Cloud Computing] [Python]
 
 - 📫 Contact me: **nanisandeep876@gmail.com**
 
