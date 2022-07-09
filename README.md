@@ -44,31 +44,21 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <br>
-
-### Connect with me:
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sandeepk27/)
-[![Website Badge](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://sandeepk27.github.io)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iam_sandeepk27/)
-[![G-mail](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/sandeepk27)
-
-
-
+<hr>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/iam_sandeepk27" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="ishikakesarwan4" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sandeepk27/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="ishika kesarwani" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/iam_sandeep12" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" /></a>
+</p>
+<hr>
 <br>
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepk27&show_icons=true&locale=en&layout=compact" alt="sandeepk27" />
 
 <img align="center"  src="https://github-readme-stats.vercel.app/api?username=sandeepk27&show_icons=true&locale=en" alt="sandeepk27" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepk27&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="sachanarpit" />
 <br>
-
-
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepk27&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepk27" /> </p>
-
 <p align=""> <a href="https://twitter.com/iam_sandeepk27" target="blank"><img src="https://img.shields.io/twitter/follow/iam_sandeepk27?logo=twitter&style=for-the-badge" alt="sandeepk27" /></a> </p>
 
 <p align="center">
