@@ -13,7 +13,7 @@
 
 - 🥅 Book lover 📔 || Music 🎶 || 💻 Internet surfer 🏄‍♂️. 
 
-- ⚡ I’m currently learning **Cloud Computing** **Python**
+- ⚡ I’m currently learning **Cloud Computing** & **Python**
 
 - 📫 Contact me: **nanisandeep876@gmail.com**
 
