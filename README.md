@@ -22,6 +22,7 @@
 <br>
 <!--Profile Counts-->
 <img src="https://komarev.com/ghpvc/?username=sandeepk27&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepk27" /> </p>
+
 <h3 align="left">Languages and Tools:</h3>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" ></code>
@@ -53,7 +54,7 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepk27&theme=dark" alt="sandeepk27" /></p>
 
 
-<img src="https://github.com/sandeepk7/sandeepk27/blob/output/github-contribution-grid-snake.svg" alt="snake">
+<!-- <img src="https://github.com/sandeepk7/sandeepk27/blob/output/github-contribution-grid-snake.svg" alt="snake"> -->
 
 
 
