@@ -1,6 +1,5 @@
-    <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif "height="45" width="45" />,
-         I'm Sandeep</h1>
-         
+
+<h1 align='center"> HIi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="gif" height="45" width="45">, I'm Sandeep</h1>   
 
                   
 - 😄 Pronouns: He/Him
