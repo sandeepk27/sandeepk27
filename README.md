@@ -1,7 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />, I'm Sandeep</h1>
+    <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif "height="45" width="45" />,
+         I'm Sandeep</h1>
          
 
                   
@@ -53,12 +51,9 @@
 <!--Github Streak-->
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepk27&theme=dark" alt="sandeepk27" /></p>
 
-<img src="https://github.com/sandeepk27/sandeepk27/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+<img src="https://github.com/sandeepk7/sandeepk27/blob/output/github-contribution-grid-snake-dark.svg" alt="snake">
 </p>
 
-<a href="https://twitter.com/iam_sandeepk27">
-  <img align="right" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
 
 
-![snake gif](https://github.com/sandeepk7/sandeepk27/blob/output/github-contribution-grid-snake-dark.svg)
+
