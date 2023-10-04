@@ -51,7 +51,7 @@
 <a href="https://github.com/sandeepk27/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepk27&show_icons=true&locale=en&title_color=green&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="sandeepk27" /></a>
 
 <!--Github Streak-->
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepk27&theme=dark" alt="sandeepk27" /></p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepk27&theme=dark" alt="sandeepk27" />
 
 
 <img src="https://github.com/sandeepk27/sandeepk27/blob/output/github-contribution-grid-snake-dark.svg">
