@@ -43,7 +43,7 @@
 </p>
 <hr>
 <br>
-
+<center>
 <!--Github Stats & Most Languages Used -->
 
 <a href="https://github.com/sandeepk27/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepk27&show_icons=true&locale=en&layout=compact&theme=dark" alt="sandeepk27" /></a> 
@@ -55,7 +55,7 @@
 
 
 <img src="https://github.com/sandeepk27/sandeepk27/blob/output/github-contribution-grid-snake-dark.svg">
-
+</center>
 
 
 
