@@ -54,9 +54,6 @@
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepk27&theme=dark" alt="sandeepk27" />
 
 
-<img src="https://github.com/sandeepk27/sandeepk27/blob/output/github-contribution-grid-snake-dark.svg">
-</center>
-
 
 
 
