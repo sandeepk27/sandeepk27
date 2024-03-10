@@ -23,6 +23,8 @@
 <!--Profile Counts-->
 <img src="https://komarev.com/ghpvc/?username=sandeepk27&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepk27" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepk27" alt="sandeep" /></a> </p>
+
 <h3 align="left">Languages and Tools:</h3>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" ></code>
