@@ -57,7 +57,6 @@
 <!--Github Streak-->
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepk27&theme=dark" alt="sandeepk27" />
 
-### Watch my contribution graph get eaten by the snake :snake:
 
 <!-- platane/snk works, it just puts it on a new branch -->
 ![sandeepk27 snake gif](https://github.com/sandeepk27/sandeepk27/blob/output/github-snake.svg)
