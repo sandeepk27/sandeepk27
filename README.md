@@ -61,6 +61,11 @@
 <!-- platane/snk works, it just puts it on a new branch -->
 ![sandeepk27 snake gif](https://github.com/sandeepk27/sandeepk27/blob/output/github-snake.svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 
 
