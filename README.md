@@ -60,7 +60,9 @@
 
 <!-- platane/snk works, it just puts it on a new branch -->
 
-![snake gif](https://github.com/sandeepk7/sandeepk27/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/sandeepk27/sandeepk27/blob/output/github-snake-dark.svg)
+
+
 
 
 
