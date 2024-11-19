@@ -58,7 +58,10 @@
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepk27&theme=dark" alt="sandeepk27" />
 
 
-<!-- platane/snk works, it just puts it on a new branch -->
+### I'm listening to:
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31gkcc7uo5lxivo2lutlyoqxueku&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31gkcc7uo5lxivo2lutlyoqxueku&redirect=true)
+
+### Watch my contribution graph get eaten by the snake :snake:
 
 ![snake gif](https://github.com/sandeepk27/sandeepk27/blob/output/github-snake-dark.svg)
 
