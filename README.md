@@ -6,15 +6,15 @@
               
 - 😄 Pronouns: He/Him
 
-- 🔭 I'm a post graduate student and a to-be developer 👨‍🎓 from India who is passionate about Web Development and open-source. 
+- 🔭 I'm a Data Engineer 👨‍🎓 from India who is passionate about Web Development and open-source. 
 
-- 🥅 Book lover 📔 || Music 🎶 || 💻 Internet surfer 🏄‍♂️. 
+- 🥅 Book lover 📔 || Music 💜 || 💻 Internet surfer 🏄‍♂️. 
 
-- ⚡ I’m currently learning **Cloud Computing** & **Python**
+- ⚡ I’m currently learning **Py Spark**, **Django** & **Data Engineer certification**
 
 - 📫 Contact me: **nanisandeep876@gmail.com**
 
-- 💬 Ask me about **Web Development, DBMS, Python**
+- 💬 Ask me about **Python, SQL, Linux, Data Engineering & Web Development**
 
 - ⚡ **To live creative life, we must lose our fear of being wrong.**
 
