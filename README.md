@@ -12,7 +12,7 @@
 
 - ⚡ I’m currently learning **Py Spark**, **Django** & **Data Engineer certification**
 
-- 📫 Contact me: **nanisandeep876@gmail.com**
+- 📫 Contact me: **sandeepkaparthi27@gmail.com**
 
 - 💬 Ask me about **Python, SQL, Linux, Data Engineering & Web Development**
 
