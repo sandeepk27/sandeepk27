@@ -6,7 +6,7 @@
               
 - 😄 Pronouns: He/Him
 
-- 🔭 I'm a Data Engineer 👨‍🎓 from India who is passionate about Web Development and open-source. 
+- 🔭 I'm a Data Engineer 👨‍🎓 from India who is crafting the data into insights, passionate on Web Development and open-source. 
 
 - 🥅 Book lover 📔 || Music 💜 || 💻 Internet surfer 🏄‍♂️. 
 
