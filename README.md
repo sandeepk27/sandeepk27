@@ -23,7 +23,11 @@
 
 ### Recent dev.to Posts
 <!-- BLOG-POST-LIST:START -->
-
+- [Deploying a React JS app using GitHub Pages](https://dev.to/sandeepk27/deploying-a-react-js-app-using-github-pages-a6g)
+- [Git Branching and Merging: A Data Engineer&#39;s Guide to Efficient Code Management](https://dev.to/sandeepk27/git-branching-and-merging-a-data-engineers-guide-to-efficient-code-management-4d6a)
+- [Apache Airflow](https://dev.to/sandeepk27/apache-airflow-lob)
+- [How to create an EC2 instance through Terraform](https://dev.to/sandeepk27/how-to-create-an-ec2-instance-through-terraform-485d)
+- [Terraform - Overview](https://dev.to/sandeepk27/terraform-overview-dnn)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
