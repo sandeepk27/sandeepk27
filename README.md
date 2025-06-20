@@ -21,10 +21,9 @@
 - 👨‍💻 You can also check out my Portfolio **https://sandeepk27.github.io/**
 
 
-### RECENT DEV.TO POST
+### Recent dev.to Posts
 <!-- BLOG-POST-LIST:START -->
-
-
+> - [Dev.to](https://dev.to/sandeepk27)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
