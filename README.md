@@ -23,11 +23,11 @@
 
 ### Recent dev.to Posts
 <!-- BLOG-POST-LIST:START -->
+- [🔥 Day 2: Understanding Spark Architecture - How Spark Executes Your Code Internally](https://dev.to/sandeepk27/day-2-understanding-spark-architecture-how-spark-executes-your-code-internally-41g4)
 - [Google AI Studio](https://dev.to/sandeepk27/google-ai-studio-2dkb)
 - [🚀 Day 1: Introduction to Apache Spark](https://dev.to/sandeepk27/day-1-introduction-to-apache-spark-3haa)
 - [Deploying a React JS app using GitHub Pages](https://dev.to/sandeepk27/deploying-a-react-js-app-using-github-pages-a6g)
 - [Git Branching and Merging: A Data Engineer&#39;s Guide to Efficient Code Management](https://dev.to/sandeepk27/git-branching-and-merging-a-data-engineers-guide-to-efficient-code-management-4d6a)
-- [Apache Airflow](https://dev.to/sandeepk27/apache-airflow-lob)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
