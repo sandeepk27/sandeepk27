@@ -23,11 +23,11 @@
 
 ### Recent dev.to Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Future of AI in 2025](https://dev.to/sandeepk27/the-future-of-ai-in-2025-2nb4)
 - [My Automated Blog Post](https://dev.to/sandeepk27/my-automated-blog-post-1ef3)
 - [🔥 Day 5: Introduction to DataFrames - The Most Importantce of Spark API](https://dev.to/sandeepk27/day-5-introduction-to-dataframes-the-most-importantce-of-spark-api-11gh)
 - [🔥 Day 4: RDD Internals - Partitions, Shuffles &amp; Repartitioning Demystified](https://dev.to/sandeepk27/day-4-rdd-internals-partitions-shuffles-repartitioning-demystified-mj9)
 - [🔥 Day 3: RDDs - The Foundation of Spark](https://dev.to/sandeepk27/day-3-rdds-the-foundation-of-spark-eeh)
-- [🔥 Day 2: Understanding Spark Architecture - How Spark Executes Your Code Internally](https://dev.to/sandeepk27/day-2-understanding-spark-architecture-how-spark-executes-your-code-internally-41g4)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
