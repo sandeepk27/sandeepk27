@@ -23,11 +23,11 @@
 
 ### Recent dev.to Posts
 <!-- BLOG-POST-LIST:START -->
+- [🔥 Day 7: Mastering Joins, Unions, and GroupBy in PySpark - The Core ETL Operations](https://dev.to/sandeepk27/day-7-mastering-joins-unions-and-groupby-in-pyspark-the-core-etl-operations-3ihe)
 - [🔥 Day 7: Mastering Joins, Unions, and GroupBy in PySpark - The Core ETL Operations](https://dev.to/sandeepk27/day-7-mastering-joins-unions-and-groupby-in-pyspark-the-core-etl-operations-4co7)
 - [🔥 Day 6: Essential PySpark DataFrame Transformations](https://dev.to/sandeepk27/day-6-essential-pyspark-dataframe-transformations-590f)
 - [The Future of AI in 2025](https://dev.to/sandeepk27/the-future-of-ai-in-2025-2nb4)
 - [My Automated Blog Post](https://dev.to/sandeepk27/my-automated-blog-post-1ef3)
-- [🔥 Day 5: Introduction to DataFrames - The Most Importantce of Spark API](https://dev.to/sandeepk27/day-5-introduction-to-dataframes-the-most-importantce-of-spark-api-11gh)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
