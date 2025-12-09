@@ -23,11 +23,11 @@
 
 ### Recent dev.to Posts
 <!-- BLOG-POST-LIST:START -->
+- [PySpark Joins and Unions Guide](https://dev.to/sandeepk27/pyspark-joins-and-unions-guide-3pmi)
+- [🔥 Day 8: Spark Join Optimization](https://dev.to/sandeepk27/day-8-spark-join-optimization-26fn)
 - [🔥 Day 8: Spark Join Optimization](https://dev.to/sandeepk27/day-8-spark-join-optimization-3jkb)
 - [🔥 Day 7: Mastering Joins, Unions, and GroupBy in PySpark - The Core ETL Operations](https://dev.to/sandeepk27/day-7-mastering-joins-unions-and-groupby-in-pyspark-the-core-etl-operations-4co7)
 - [🔥 Day 6: Essential PySpark DataFrame Transformations](https://dev.to/sandeepk27/day-6-essential-pyspark-dataframe-transformations-590f)
-- [🔥 Day 5: Introduction to DataFrames - The Most Importantce of Spark API](https://dev.to/sandeepk27/day-5-introduction-to-dataframes-the-most-importantce-of-spark-api-11gh)
-- [🔥 Day 4: RDD Internals - Partitions, Shuffles &amp; Repartitioning Demystified](https://dev.to/sandeepk27/day-4-rdd-internals-partitions-shuffles-repartitioning-demystified-mj9)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
