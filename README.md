@@ -23,11 +23,11 @@
 
 ### Recent dev.to Posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 11: Choosing the Right File Format in Spark](https://dev.to/sandeepk27/day-11-choosing-the-right-file-format-in-spark-3gp9)
 - [Day 10: Partitioning vs Bucketing - The Spark Optimization Guide Every Data Engineer Needs](https://dev.to/sandeepk27/day-10-partitioning-vs-bucketing-the-spark-optimization-guide-every-data-engineer-needs-mlj)
 - [Day 9: Spark SQL Deep Dive - Temp Views, Query Execution &amp; Optimization Tips for Data Engineers](https://dev.to/sandeepk27/day-9-spark-sql-deep-dive-temp-views-query-execution-optimization-tips-for-data-engineers-35gh)
 - [Day 8: Accelerating Spark Joins - Broadcast, Shuffle Optimization &amp; Skew Handling](https://dev.to/sandeepk27/day-8-accelerating-spark-joins-broadcast-shuffle-optimization-skew-handling-13gd)
 - [Day 7: Mastering Joins, Unions, and GroupBy in PySpark - The Core ETL Operations](https://dev.to/sandeepk27/pyspark-joins-and-unions-guide-38m1)
-- [🔥 Day 6: Essential PySpark DataFrame Transformations](https://dev.to/sandeepk27/day-6-essential-pyspark-dataframe-transformations-590f)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
