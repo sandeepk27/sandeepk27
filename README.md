@@ -23,11 +23,11 @@
 
 ### Recent dev.to Posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 13: Window Functions in PySpark](https://dev.to/sandeepk27/day-13-window-functions-in-pyspark-597i)
 - [Day 12: UDF vs Pandas UDF](https://dev.to/sandeepk27/day-12-udf-vs-pandas-udf-2490)
 - [Day 11: Choosing the Right File Format in Spark](https://dev.to/sandeepk27/day-11-choosing-the-right-file-format-in-spark-3gp9)
 - [Day 10: Partitioning vs Bucketing - The Spark Optimization Guide Every Data Engineer Needs](https://dev.to/sandeepk27/day-10-partitioning-vs-bucketing-the-spark-optimization-guide-every-data-engineer-needs-mlj)
 - [Day 9: Spark SQL Deep Dive - Temp Views, Query Execution &amp; Optimization Tips for Data Engineers](https://dev.to/sandeepk27/day-9-spark-sql-deep-dive-temp-views-query-execution-optimization-tips-for-data-engineers-35gh)
-- [Day 8: Accelerating Spark Joins - Broadcast, Shuffle Optimization &amp; Skew Handling](https://dev.to/sandeepk27/day-8-accelerating-spark-joins-broadcast-shuffle-optimization-skew-handling-13gd)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
