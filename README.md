@@ -23,11 +23,11 @@
 
 ### Recent dev.to Posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 16: Delta Lake Explained - How Spark Finally Became Reliable for Production ETL](https://dev.to/sandeepk27/day-16-delta-lake-explained-how-spark-finally-became-reliable-for-production-etl-da)
 - [Day 15: Running Spark in the Cloud - Dataproc vs Databricks](https://dev.to/sandeepk27/day-15-running-spark-in-the-cloud-dataproc-vs-databricks-1p01)
 - [Day 14: Building a Real Retail Analytics Pipeline Using Spark Window Functions](https://dev.to/sandeepk27/day-14-building-a-real-retail-analytics-pipeline-using-spark-window-functions-1pl0)
 - [Day 13: Window Functions in PySpark](https://dev.to/sandeepk27/day-13-window-functions-in-pyspark-597i)
 - [Day 12: UDF vs Pandas UDF](https://dev.to/sandeepk27/day-12-udf-vs-pandas-udf-2490)
-- [Day 11: Choosing the Right File Format in Spark](https://dev.to/sandeepk27/day-11-choosing-the-right-file-format-in-spark-3gp9)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
