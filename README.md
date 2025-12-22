@@ -23,11 +23,11 @@
 
 ### Recent dev.to Posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 20: Handling Bad Records &amp; Data Quality in Spark](https://dev.to/sandeepk27/day-20-handling-bad-records-data-quality-in-spark-20db)
 - [Day 19: Spark Broadcasting &amp; Caching](https://dev.to/sandeepk27/day-19-spark-broadcasting-caching-29c6)
 - [Day 18: Spark Performance Tuning](https://dev.to/sandeepk27/day-18-spark-performance-tuning-3go5)
 - [Day 17: Building a Real ETL Pipeline in Spark Using Bronze-Silver-Gold Architecture](https://dev.to/sandeepk27/day-17-building-a-real-etl-pipeline-in-spark-using-bronze-silver-gold-architecture-n6o)
 - [Day 16: Delta Lake Explained - How Spark Finally Became Reliable for Production ETL](https://dev.to/sandeepk27/day-16-delta-lake-explained-how-spark-finally-became-reliable-for-production-etl-da)
-- [Day 15: Running Spark in the Cloud - Dataproc vs Databricks](https://dev.to/sandeepk27/day-15-running-spark-in-the-cloud-dataproc-vs-databricks-1p01)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
