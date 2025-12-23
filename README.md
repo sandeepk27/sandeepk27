@@ -23,11 +23,11 @@
 
 ### Recent dev.to Posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 23: Spark Shuffle Optimization](https://dev.to/sandeepk27/day-23-spark-shuffle-optimization-32hm)
 - [Day 22: Spark Shuffle Deep Dive](https://dev.to/sandeepk27/day-22-spark-shuffle-deep-dive-3hhk)
 - [Day 21: Building a Production-Grade Data Quality Pipeline with Spark &amp; Delta](https://dev.to/sandeepk27/day-21-building-a-production-grade-data-quality-pipeline-with-spark-delta-374o)
 - [Day 20: Handling Bad Records &amp; Data Quality in Spark](https://dev.to/sandeepk27/day-20-handling-bad-records-data-quality-in-spark-20db)
 - [Day 19: Spark Broadcasting &amp; Caching](https://dev.to/sandeepk27/day-19-spark-broadcasting-caching-29c6)
-- [Day 18: Spark Performance Tuning](https://dev.to/sandeepk27/day-18-spark-performance-tuning-3go5)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
