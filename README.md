@@ -23,11 +23,11 @@
 
 ### Recent dev.to Posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 30: From Zero to Production-Ready Spark Data Engineer](https://dev.to/sandeepk27/day-30-from-zero-to-production-ready-spark-data-engineer-f6f)
 - [Day 29: Building a Production-Grade Real-Time ETL Pipeline with Spark &amp; Delta](https://dev.to/sandeepk27/day-29-building-a-production-grade-real-time-etl-pipeline-with-spark-delta-4blc)
 - [Day 28: Spark Streaming Performance Tuning](https://dev.to/sandeepk27/day-28-spark-streaming-performance-tuning-37ig)
 - [Day 27: Building Exactly-Once Streaming Pipelines with Spark &amp; Delta Lake](https://dev.to/sandeepk27/day-27-building-exactly-once-streaming-pipelines-with-spark-delta-lake-243c)
 - [Day 26: Spark Streaming Joins](https://dev.to/sandeepk27/day-26-spark-streaming-joins-2kdj)
-- [Day 25: Streaming Aggregations in Spark](https://dev.to/sandeepk27/day-25-streaming-aggregations-in-spark-169j)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
