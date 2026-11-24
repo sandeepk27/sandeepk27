@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://sandeepk27.github.io/">Portfolio</a> ·
-  <a href="mailto:sandeepkaparthi27@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/sandeepk27/">LinkedIn</a> ·
-  <a href="https://instagram.com/iam_sandeep12">Instagram</a>
+  <a href="https://sandeepk27.github.io/" title="Portfolio"><img src="https://img.icons8.com/fluency/48/domain.png" width="42" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="mailto:sandeepkaparthi27@gmail.com" title="Email"><img src="https://img.icons8.com/fluency/48/new-post.png" width="42" alt="Email" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sandeepk27/" title="LinkedIn"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" width="42" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/iam_sandeep12" title="Instagram"><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" width="42" alt="Instagram" /></a>
 </p>
 
 <p align="center">
