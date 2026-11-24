@@ -1,6 +1,8 @@
-﻿<p align="center">
-  <img src="profile/neumorphic-header.svg" alt="Sandeep Kaparthi — Data Engineer building thoughtful data systems" width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile/neumorphic-header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="profile/neumorphic-header.svg">
+  <img src="profile/neumorphic-header.svg" alt="Sandeep Kaparthi — Data Engineer building thoughtful data systems" width="100%">
+</picture>
 
 <p align="center">
   <a href="https://sandeepk27.github.io/" title="Portfolio"><img src="https://img.icons8.com/fluency/48/domain.png" width="42" alt="Portfolio" /></a>&nbsp;&nbsp;
@@ -54,7 +56,7 @@ I’m documenting my journey from Spark fundamentals to production-ready data en
 ## The GitHub activity
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepk27" alt="GitHub profile trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-winning.vercel.app/?username=sandeepk27&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub profile trophies" /></a>
 </p>
 
 <p align="center">
@@ -76,6 +78,10 @@ I’m documenting my journey from Spark fundamentals to production-ready data en
 
 <p align="center">When I’m not building pipelines, the contribution snake is busy making its way across my GitHub graph.</p>
 
-<p align="center"><img src="https://github.com/sandeepk27/sandeepk27/blob/output/github-snake-dark.svg" alt="Contribution graph snake animation" width="100%" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandeepk27/sandeepk27/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sandeepk27/sandeepk27/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/sandeepk27/sandeepk27/output/github-snake.svg" alt="Contribution graph snake animation" width="100%">
+</picture>
 
 <p align="center"><i>“To live a creative life, we must lose our fear of being wrong.”</i></p>
