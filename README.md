@@ -5,10 +5,10 @@
 </picture>
 
 <p align="center">
-  <a href="https://sandeepk27.github.io/" title="Visit my portfolio"><img src="profile/icons/portfolio.svg" width="24" alt="" /> Portfolio</a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:sandeepkaparthi27@gmail.com" title="Email me"><img src="profile/icons/email.svg" width="24" alt="" /> Email</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sandeepk27/" title="Connect on LinkedIn"><img src="profile/icons/linkedin.svg" width="24" alt="" /> LinkedIn</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/iam_sandeep12" title="Follow on Instagram"><img src="profile/icons/instagram.svg" width="24" alt="" /> Instagram</a>
+  <a href="https://sandeepk27.github.io/" title="Portfolio"><img src="profile/icons/portfolio.svg" width="40" alt="" /></a>&nbsp;&nbsp;
+  <a href="mailto:sandeepkaparthi27@gmail.com" title="Email"><img src="profile/icons/email.svg" width="40" alt="" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sandeepk27/" title="LinkedIn"><img src="profile/icons/linkedin.svg" width="40" alt="" /></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/iam_sandeep12" title="Instagram"><img src="profile/icons/instagram.svg" width="40" alt="" /></a>
 </p>
 
 <p align="center">
