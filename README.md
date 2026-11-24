@@ -1,23 +1,23 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/neumorphic-header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="profile/neumorphic-header.svg">
-  <img src="profile/neumorphic-header.svg" alt="Sandeep Kaparthi — Data Engineer building thoughtful data systems" width="100%">
+  <img src="profile/neumorphic-header.svg" alt="Sandeep Kaparthi &mdash; Data Engineer building thoughtful data systems" width="100%">
 </picture>
 
 <p align="center">
-  <a href="https://sandeepk27.github.io/" title="Portfolio"><img src="https://img.icons8.com/fluency/48/domain.png" width="42" alt="Portfolio" /></a>&nbsp;&nbsp;
-  <a href="mailto:sandeepkaparthi27@gmail.com" title="Email"><img src="https://img.icons8.com/fluency/48/new-post.png" width="42" alt="Email" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sandeepk27/" title="LinkedIn"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" width="42" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://instagram.com/iam_sandeep12" title="Instagram"><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" width="42" alt="Instagram" /></a>
+  <a href="https://sandeepk27.github.io/" title="Visit my portfolio"><img src="profile/icons/portfolio.svg" width="24" alt="" /> Portfolio</a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sandeepkaparthi27@gmail.com" title="Email me"><img src="profile/icons/email.svg" width="24" alt="" /> Email</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sandeepk27/" title="Connect on LinkedIn"><img src="profile/icons/linkedin.svg" width="24" alt="" /> LinkedIn</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/iam_sandeep12" title="Follow on Instagram"><img src="profile/icons/instagram.svg" width="24" alt="" /> Instagram</a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sandeepk27&label=PROFILE%20VISITORS&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-## The short version
+## About me
 
-I’m Sandeep — a **Data Engineer from India** who enjoys turning messy, moving data into systems people can trust. I work across data engineering and web development, and I’m always curious about the details that make a pipeline dependable in production.
+I am Sandeep, a **Data Engineer from India** who enjoys turning messy, moving data into systems people can trust. I work across data engineering and web development, and I am curious about the details that make a pipeline dependable in production.
 
 > **Build with curiosity. Ship with care. Keep learning.**
 
@@ -26,7 +26,7 @@ I’m Sandeep — a **Data Engineer from India** who enjoys turning messy, movin
 - **Away from the terminal:** books, music, and a good internet rabbit hole
 - **Pronouns:** He/Him
 
-## What I work with
+## Tools I use
 
 <p align="center">
   <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" /></code>
@@ -41,9 +41,9 @@ I’m Sandeep — a **Data Engineer from India** who enjoys turning messy, movin
   <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" /></code>
 </p>
 
-## Writing about data
+## Latest writing
 
-I’m documenting my journey from Spark fundamentals to production-ready data engineering. The latest posts are pulled in automatically, so this section stays fresh.
+I am documenting my journey from Spark fundamentals to production-ready data engineering. The latest posts are pulled in automatically, so this section stays fresh.
 
 <!-- BLOG-POST-LIST:START -->
 - [Day 30: From Zero to Production-Ready Spark Data Engineer](https://dev.to/sandeepk27/day-30-from-zero-to-production-ready-spark-data-engineer-f6f)
@@ -53,7 +53,9 @@ I’m documenting my journey from Spark fundamentals to production-ready data en
 - [Day 26: Spark Streaming Joins](https://dev.to/sandeepk27/day-26-spark-streaming-joins-2kdj)
 <!-- BLOG-POST-LIST:END -->
 
-## The GitHub activity
+## GitHub activity
+
+Here are a few snapshots of my coding activity and milestones.
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-winning.vercel.app/?username=sandeepk27&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub profile trophies" /></a>
@@ -68,15 +70,15 @@ I’m documenting my journey from Spark fundamentals to production-ready data en
   <a href="https://github.com/sandeepk27/github-readme-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepk27&theme=dark" alt="GitHub contribution streak" /></a>
 </p>
 
-## Currently on repeat
+## What I am listening to
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31gkcc7uo5lxivo2lutlyoqxueku&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gkcc7uo5lxivo2lutlyoqxueku&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="My Spotify activity" /></a>
 </p>
 
-## A little more persistence
+## Contribution trail
 
-<p align="center">When I’m not building pipelines, the contribution snake is busy making its way across my GitHub graph.</p>
+<p align="center">When I am not building pipelines, the contribution snake is busy making its way across my GitHub graph.</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandeepk27/sandeepk27/output/github-snake-dark.svg">
@@ -84,4 +86,4 @@ I’m documenting my journey from Spark fundamentals to production-ready data en
   <img src="https://raw.githubusercontent.com/sandeepk27/sandeepk27/output/github-snake.svg" alt="Contribution graph snake animation" width="100%">
 </picture>
 
-<p align="center"><i>“To live a creative life, we must lose our fear of being wrong.”</i></p>
+<p align="center"><i>&ldquo;To live a creative life, we must lose our fear of being wrong.&rdquo;</i></p>
